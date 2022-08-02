@@ -1,0 +1,28 @@
+body{
+    background-color: #004b51 !important;
+}
+
+.card{
+    
+    background: #012a2e !important;
+}
+.name{
+    color: #80babe !important;
+}
+.card p{
+    opacity: 80% !important;
+}
+.icon{
+    background:white;
+}
+.icon:hover{
+    background: #f88789 !important;
+}
+.card .plus{
+    position: relative !important;
+    top: 20px;
+    background: #f88789 !important;
+}
+.card .plus:hover{
+    background: #80babe !important;
+}
